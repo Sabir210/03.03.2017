@@ -1,0 +1,9 @@
+.Accordion {
+height: 40px;
+width: 550px;
+border-radius: 5px;
+transition: 0.4s;
+}
+button:hover {
+	background-color: blue;
+}
